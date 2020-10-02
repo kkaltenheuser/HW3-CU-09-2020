@@ -17,5 +17,5 @@ I continually toyed with and applied code, there is a great amount of detail and
 stand out is that if someone new were to stumble upon it, they would know where to implement changes were they to evolve the password to a different set of 
 variables. 
 
-
-![Image description](URL to image)
+![when you first approach the password generator](https://github.com/kkaltenheuser/HW3-CU-09-2020/blob/master/Screen%20Shot%202020-10-01%20at%209.18.02%20PM.png)
+![when a new password is generated](https://github.com/kkaltenheuser/HW3-CU-09-2020/blob/master/Screen%20Shot%202020-10-01%20at%209.18.02%20PM.png)
