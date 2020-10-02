@@ -18,4 +18,4 @@ stand out is that if someone new were to stumble upon it, they would know where 
 variables. 
 
 ![when you first approach the password generator](https://github.com/kkaltenheuser/HW3-CU-09-2020/blob/master/Screen%20Shot%202020-10-01%20at%209.18.02%20PM.png)
-![when a new password is generated](https://github.com/kkaltenheuser/HW3-CU-09-2020/blob/master/Screen%20Shot%202020-10-01%20at%209.18.02%20PM.png)
+![when a new password is generated](https://github.com/kkaltenheuser/HW3-CU-09-2020/blob/master/Screen%20Shot%202020-10-01%20at%209.19.02%20PM.png)
